@@ -1,6 +1,6 @@
 # Information Retrieval Course Project
 
-### **In this project, there are two steps to return names of 10 highest similarity books with query.**
+### **In this project, there are two steps to return names of 10 highest similarity books with desired query.**
 
 **Firstly**, download the dataset from _https://github.com/mohamad-dehghani/persian-pdf-books-dataset_ and,
 this dataset contains information on Persian pdf books. Furthermore, the dataset consists of information
