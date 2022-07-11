@@ -1,6 +1,6 @@
-#information retrieval
+# Information Retrieval Course Project
 
-**In this project, there are two steps to return names of 10 highest similarity books with query.**
+### **In this project, there are two steps to return names of 10 highest similarity books with query.**
 
 **Firstly**, download the dataset from _https://github.com/mohamad-dehghani/persian-pdf-books-dataset_ and,
 this dataset contains information on Persian pdf books. Furthermore, the dataset consists of information
@@ -17,7 +17,7 @@ phase, I should invert indexing the final token extracted from the pre-processin
 I append queries to the dataset's content feature to create a vector with one dimension (2438 * 1) and then calculate the tf-idf score for
 each word in vector and for each record. after obtaining the vector representation tf-idf, return names of 10 books that 
 has the highest cosine similarity with desired query (I calculate the cosine similarity of each query and all books' content).
-To sum up, I return names of 10 highest similar books with each of the queries 
+**To sum up**, I return names of 10 highest similar books with each of the queries 
 
 
 
